@@ -1,6 +1,6 @@
 # FRC 6941 IronPulse & 10541 CarbonPulse 2025 Competition Robot
 
-- 年级：8.3
+- 年级：9
 - 姓名：凌乐怡
 
 ## Troubleshooting
